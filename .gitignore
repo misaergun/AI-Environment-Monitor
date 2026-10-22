@@ -1,0 +1,14 @@
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Local sensor data
+sensor_data.csv
+
+# macOS
+.DS_Store
